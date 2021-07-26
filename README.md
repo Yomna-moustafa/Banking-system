@@ -1,6 +1,6 @@
 # Banking system
 #**Description **
-#This is a banking recording system that manage a client & admin account and give the basic serves that needed . Project in c++ and using <fstream> library for saving input data 
+#This is a banking recording system that manage a client & admin account and give the basic serves that needed . Project in c++ and using file  for saving input data 
 
   ________________________________________________________________________________________________________________________________________________________________________________
 #**Features** 
